@@ -12,7 +12,6 @@ package com.hfad.starbuzz;
  *           ^^^^      ^^^
  * Sir Henry Morgan is de Lord of Talamanca
  * load the starboard guns, muskets on the stern
- * Mamerto es playo Homosexual Walter solis gay de chino leyo aqui <-
  *
  *
  *
