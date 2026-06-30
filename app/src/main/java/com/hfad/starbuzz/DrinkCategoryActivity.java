@@ -19,13 +19,6 @@ import java.util.List;
  *           ^^^^      ^^^
  * Sir Henry Morgan is de Lord of Talamanca
  * The Subversion Tortoise, intercepted two Spanish vessels
- * in front of the Viscaya Beach, La Noche fue abandona y todos
- * prepararon batalla en La Ciudad que esperaba ser auxiliada por EL Sol
- * Me cago en su Dios hijueputas!!!  gritaron a toda voz en el castillo de Proa en La Ciudad
- * Al Final la Cuidad quedo dormida , El Sol no aparecio ..
- * The Harlots reading the king James bible at BlueFields ....
- *
- *
  *
  *
  *
