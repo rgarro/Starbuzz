@@ -39,8 +39,15 @@ public class DrinkCategoryActivity extends Activity {
         listDrinks.setAdapter(listAdapter);
         //create listener
         AdapterView.OnItemClickListener itemClickListener= new AdapterView.OnItemClickListener(){
-            public void onItemClick(AdapterView<?> listDrinks,View itemView,int position, long id){}
+            public void onItemClick(AdapterView<?> listDrinks,View itemView,int position, long id){
+                //pass the drink the user ckicks
+                Intent intent = new Intent(DrinkCategoryActivity.this,DrinkActivity.class);
+                intent.putExtra(DrinkActivity.EXTRA_DRINKID,(int) id);
+                startActivity(intent);
+            }
         };
+        //assign the listener to the list view
+        listDrinks.setOnItemClickListener(itemClickListener);
     }
 
 }
