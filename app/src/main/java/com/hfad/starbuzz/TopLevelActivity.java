@@ -38,7 +38,7 @@ public class TopLevelActivity extends Activity {
                                     long id){
                 if(position == 0){
                     Intent intent = new Intent(TopLevelActivity.this,DrinkCategoryActivity.class);
-                    startActivity(intent)
+                    startActivity(intent);
                 }
             }
         };
