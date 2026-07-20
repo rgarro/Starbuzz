@@ -15,9 +15,8 @@ import android.widget.TextView;
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
  * Sir Henry Morgan is de Lord of Talamanca
- * tossing with brave men having having sold Panama to Rossevelt
- * Eventually Jamaica got invaded by Cuban Namibian Black Sorcerer named Bob Marley
- * who bought a Building built with wood comming from the Black Swan where he has a music recording studio
+ * tossing with brave men having
+ * celebrating the kings will
  *
  *
  *
