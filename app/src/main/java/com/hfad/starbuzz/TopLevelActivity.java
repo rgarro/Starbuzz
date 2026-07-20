@@ -19,6 +19,7 @@ import android.widget.ListView;
  *     ^^^^      ^^^^     ^^^    ^^
  *           ^^^^      ^^^
  * Sir Henry Morgan is de Lord of Talamanca
+ * Juan Valdez murio asesinado por Nazis del Cartel de Medellin
  *
  *
  *
